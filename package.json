@@ -1,0 +1,26 @@
+{
+  "name": "creditscorekit",
+  "version": "1.0.4",
+  "description": "Credit Score Calculator In Console/Terminal. Takes input from user and then displays it's current credit score.",
+  "type": "module",
+  "main": "./dist/index.js",
+  "bin": "./dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "cli",
+    "creditscore",
+    "creditscorekit",
+    "terminal"
+  ],
+  "author": "Meesam Bukhari",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.5.1",
+    "@types/prompt-sync": "^4.2.0"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
