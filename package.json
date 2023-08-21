@@ -1,6 +1,6 @@
 {
   "name": "creditscorekit",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Credit Score Calculator In Console/Terminal. Takes input from user and then displays it's current credit score.",
   "type": "module",
   "main": "./dist/index.js",
