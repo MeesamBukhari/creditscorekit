@@ -15,7 +15,7 @@
 
 It can calculate your credit score in console.
 
-## Install
+### Install
 
 ```sh
 npm i -g creditscorekit
