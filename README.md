@@ -42,4 +42,4 @@ Click to visit NPM Package [CreditScoreKit](https://npmjs.com/package/creditscor
 
 Copyright © 2023 [Meesam Bukhari](https://github.com/MeesamBukhari).
 
-This project is [ISC](https://choosealicense.com/licenses/isc/) licensed.
+This project is [ISC](https://choosealicense.com/licenses/isc) licensed.
